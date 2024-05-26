@@ -1,0 +1,7 @@
+# Исключить папку node_modules
+node_modules/
+
+# Исключить файл secret.txt
+secret.txt
+
+.idea
